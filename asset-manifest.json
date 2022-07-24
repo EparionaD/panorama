@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/panorama/static/css/main.755cf503.css",
+    "main.js": "/panorama/static/js/main.032b16d6.js",
+    "static/js/787.ef3b5a95.chunk.js": "/panorama/static/js/787.ef3b5a95.chunk.js",
+    "index.html": "/panorama/index.html",
+    "main.755cf503.css.map": "/panorama/static/css/main.755cf503.css.map",
+    "main.032b16d6.js.map": "/panorama/static/js/main.032b16d6.js.map",
+    "787.ef3b5a95.chunk.js.map": "/panorama/static/js/787.ef3b5a95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755cf503.css",
+    "static/js/main.032b16d6.js"
+  ]
+}
